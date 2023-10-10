@@ -14,10 +14,10 @@ I am a Front-end developer who loves coding.
  -->
 
 #### :fire: My Github Statistics :
-<a href="https://github.com/sudheerj">
+<a href="https://github.com/a1ishco">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ishco&theme=light&count_private=true&layout=compact" width="205" alt="Sudheer's most used languages" />
 </a>
-<a href="https://github.com/sudheerj">
+<a href="https://github.com/a1ishco">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=a1ishco&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" width="350" alt="A1ishco's github stats"/>
 </a>
 
